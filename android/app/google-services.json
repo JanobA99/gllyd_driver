@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "596767447808",
+    "firebase_url": "https://gllyd-855d8.firebaseio.com",
+    "project_id": "gllyd-855d8",
+    "storage_bucket": "gllyd-855d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596767447808:android:43f227dc7ca8ce99c4b1e5",
+        "android_client_info": {
+          "package_name": "com.gllyd.firestore_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596767447808-u4jd80hbjspo8406hi4mq3a2smfh05c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMlxJULkdRFfgyHO400IUpdn8y6LEVNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596767447808-u4jd80hbjspo8406hi4mq3a2smfh05c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596767447808:android:38d64e0038e4bb7fc4b1e5",
+        "android_client_info": {
+          "package_name": "com.gllyd.gllyd_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596767447808-u4jd80hbjspo8406hi4mq3a2smfh05c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMlxJULkdRFfgyHO400IUpdn8y6LEVNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596767447808-u4jd80hbjspo8406hi4mq3a2smfh05c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
